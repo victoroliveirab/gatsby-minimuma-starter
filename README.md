@@ -41,7 +41,7 @@ This is a starter for Gatsby that I usually use to quickly scaffold a project. I
     Use the Gatsby CLI to create a new site, specifying the `minimuma-starter` starter.
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
+    # create a new Gatsby site using the minimuma-starter
     gatsby new my-gatsby-application https://github.com/victoroliveirab/gatsby-minimuma-starter
     ```
 
