@@ -95,6 +95,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
     1. **`/src/themes`**: This folder contains two files: a `light.js` file, which comprises an object with all the light-theme configuration parameters, and a `dark.js` likewise.
 
+1.  **`/static`**: This directory is used to host static files, such as `images` and the `favicon`.
+
 1.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
 1.  **`.prettierignore`**: This is a configuration file for [Prettier](https://prettier.io/), which is a tool to help keep the formatting of your code consistent. Here, you list folders and files that should be ignored by prettier.
